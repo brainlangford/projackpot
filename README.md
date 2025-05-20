@@ -1,2 +1,3 @@
-# projackpot
-ProJackpot
+# PipRadar App
+
+Installation and deployment instructions.
